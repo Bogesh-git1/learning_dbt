@@ -1,3 +1,5 @@
+create or replace transient table analytics.dbt_mkt.my_first_dbt_model
+as
 
 /*
     Welcome to your first dbt model!
